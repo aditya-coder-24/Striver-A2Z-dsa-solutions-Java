@@ -62,7 +62,3 @@ The goal of this repository is to practice and strengthen **Data Structures and 
 ## 🚀 Author
 
 **Aditya Yadav**
-
----
-
-⭐ If you find this repository helpful, feel free to **star the repo**.
